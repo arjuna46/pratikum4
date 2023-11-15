@@ -5,7 +5,7 @@
  - git add dapat digunakan secara spesifik untuk file tertentu atau direktori, memberikan Anda fleksibilitas untuk memilih perubahan mana yang akan dimasukkan dalam staging 
   area.
  - git commit -m “hi” Untuk menyimpan perubahan yang ada kedalam database repository local
- - git remote add origin https://github.com/Maullynn/praktikum4.git Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada 
+ - git remote add origin https://github.com/arjuna46/pratikum4.git Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada 
    local repository, sehingga dapat diakses oleh banyak user.
  - git push -u origin master/main Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
  - git clone [url] Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working 
@@ -16,7 +16,8 @@
   nilai UAS. Setelah data dimasukkan, nilai akhir dihitung berdasarkan bobot tertentu dan disimpan dalam bentuk dictionary. Pengaturan tata letak tabel, termasuk penataan 
   angka dan teks, diatur menggunakan parameter numalign dan stralign.
 - OUTPUT
- ![Screenshot (243)](https://github.com/Maullynn/praktikum4/assets/144296695/922b460c-b78a-4940-adc6-5ed3e417849e)
+  ![Screenshot (53)](https://github.com/arjuna46/pratikum4/assets/147571007/25a7bcdb-c0e6-4d5e-99d6-ffe3620f1fe6)
+
 ## LATIHAN 1
 - print("Elemen ke 3:", A[2]): Menampilkan elemen ke-3 dari list A (indeks 
   dimulai dari 0), yang dalam hal ini adalah nilai 30.
@@ -31,4 +32,5 @@
 - B.append("baru"): Menambahkan nilai string "baru" ke list B.
 - print("List B setelah ditambahkan nilai string:", B): Menampilkan list B setelah penambahan nilai string "baru". List B sekarang menjadi [10, 20, 'baru'].
 - OUTPUT
-  ![Screenshot (242)](https://github.com/Maullynn/praktikum4/assets/144296695/2d558578-f4c7-4c5f-9f82-8cb1bbefe835)
+  ![Screenshot (49)](https://github.com/arjuna46/pratikum4/assets/147571007/9085da36-6a63-4c9c-be09-0e5c39f72dc6)
+
